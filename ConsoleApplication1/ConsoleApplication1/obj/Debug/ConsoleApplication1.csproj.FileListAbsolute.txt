@@ -1,6 +1,0 @@
-C:\Users\Radek\Documents\GitHub\SampleRepo1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-C:\Users\Radek\Documents\GitHub\SampleRepo1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-C:\Users\Radek\Documents\GitHub\SampleRepo1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-C:\Users\Radek\Documents\GitHub\SampleRepo1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
-C:\Users\Radek\Documents\GitHub\SampleRepo1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-C:\Users\Radek\Documents\GitHub\SampleRepo1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
